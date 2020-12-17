@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hallo vom Host ${HOSTNAME}."
+echo "Ein Gruss von Host ${HOSTNAME}."
